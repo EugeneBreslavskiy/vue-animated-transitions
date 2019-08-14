@@ -1,6 +1,16 @@
-# vue-animated-transitions
+## vue-animated-transitions
 
 > A Vue.js project with animated transitions between routes
+
+## Demo
+
+[surge.sh](http://vue-animated-transitions.surge.sh)
+
+## Credits
+
+- Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt)  
+
+- Photo by [Erol Ahmed](https://unsplash.com/@erol)
 
 ## Build Setup
 
